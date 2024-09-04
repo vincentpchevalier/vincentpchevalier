@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chev0100](https://medium.com/@chev0100)
 
-- 💬 Ask me about **vanilla JavaScript!**
+- 💬 Ask me about **vanilla JavaScript, CSS, or Web Accessibility.**
 
 - 📫 How to reach me **vincentpchevalier@proton.me**
 
