@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Vincent P Chevalier</h1>
-<h3 align="center">A web and mobile app developer from Ottawa, Canada</h3>
+<h3 align="center">A web developer living in Ottawa, Canada</h3>
 
-- 🔭 I’m currently working on **an app that tracks life goals and bad habits**
+- 🔭 I’m currently working on building the backend for **A Movie Matcher API**<br />
+  _(A movie matcher app that connects friends by matching favorite movies through a fun and interactive experience.)_
 
-- 🌱 I’m currently learning **TypeScript and Jest!**
+- 🌱 I’m currently learning **AI Agents, Node.js, Next.js, and Redis.**<br />
+  _(Diving into scalable app development and real-time functionality with technologies like Redis pub/sub.)_
 
-- 👨‍💻 All of my projects are available at [https://vincentchevalier.dev](https://vincentchevalier.dev)
+- 💻 My latest projects include:
 
-- 📝 I regularly write articles on [https://medium.com/@chev0100](https://medium.com/@chev0100)
+  - **[Session-PubSub Demo:](https://github.com/vincentpchevalier/redis-session-pubsub)** _(A session-based messaging app using Node.js, Express, Redis cache, and pub/sub to improve my understanding of real-time systems.)_
 
-- 💬 Ask me about **vanilla JavaScript, CSS, or Web Accessibility.**
+- 👨‍💻 My dev website [https://vincentchevalier.dev](https://vincentchevalier.dev)<br />
+  _(Completely built from scratch using HTML, CSS, and JavaScript and following W3C accessibility best practices.)_
+
+- 📝 I occasionally write articles about development on [https://medium.com/@chev0100](https://medium.com/@chev0100)<br />
+  _(Look out for my upcoming article on Redis pub/sub!)_
+
+- 💬 Ask me about **vanilla JavaScript, Node.js, and Web Accessibility (WCAG).**
+  _(I love designing and building APIs.)_
 
 - 📫 How to reach me **vincentpchevalier@proton.me**
 
-- ⚡ Fun fact **I used to be a video artist and showed my work in fancy galleries all over the world.**
+- ⚡ Fun fact: **I used to be a video artist and created short films shown in galleries around the world. Now, I bring that creativity into coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
